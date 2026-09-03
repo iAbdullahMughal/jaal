@@ -1,0 +1,8 @@
+{
+  "type": "ipv4-addr",
+  "value": "110.173.190.221",
+  "first_seen": "2026-09-02",
+  "last_seen": "2026-09-03",
+  "category": "credential-stuffing",
+  "notes": "Heavy SSH login attempts targeting common/default passwords. Flagged as malicious on public reputation feeds."
+}

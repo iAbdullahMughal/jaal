@@ -1,0 +1,8 @@
+{
+  "type": "ipv4-addr",
+  "value": "45.153.34.235",
+  "first_seen": "2026-09-02",
+  "last_seen": "2026-09-03",
+  "category": "network-scan",
+  "notes": "Repeated SSH connection attempts over a ~28 hour window. Listed as malicious on several public reputation feeds."
+}
